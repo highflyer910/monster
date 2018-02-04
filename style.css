@@ -36,13 +36,13 @@
 }
 
 .log ul .player-turn{
-	color: blue;
-	background-color: #e4e8ff;
+	color: #A1C5AB;
+	background-color: #FDE6BD;
 }
 
 .log ul .monster-turn{
-	color: red;
-	background-color: #ffc0c1;
+	color: #A1C5AB;
+	background-color: #FDE6BD;
 }
 
 button{
@@ -54,41 +54,25 @@ button{
 }
 
 #start-game{
-	background-color: #aaffb0;
+	background-color: #A1C5AB;
 }
 
-#start-game:hover{
-	background-color: #76ff7e;
-}
 
 #attack{
-	background-color: #ff7367;
+	background-color: #D11E48;
 }
 
-#attack:hover{
-	background-color: #ff3f43;
-}
 
 #special-attack{
-	background-color: #ffaf4f;
+	background-color: #632F53;
 }
 
-#special-attack:hover{
-	background-color: #ff9a2b;
-}
 
 #heal{
-	background-color: #aaffb0;
+	background-color: #F4DD51;
 }
 
-#heal:hover{
-	background-color: #76ff7e;
-}
 
 #give-up{
 	background-color: #ffffff;
-}
-
-#give-up:hover{
-	background-color: #c7c7c7;
 }
